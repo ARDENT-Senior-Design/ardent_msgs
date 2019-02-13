@@ -1,0 +1,6 @@
+
+# send a list of joints that you want calibrated
+string[] calibrate_joints_
+---
+# responds with a list of passed/failed in the same order
+bool[] is_calibrated
