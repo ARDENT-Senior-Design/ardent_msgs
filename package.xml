@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ardent_msgs</name>
+  <name>ardent_msgs_simple</name>
   <version>0.0.0</version>
   <description>The ardent_msgs package</description>
 
